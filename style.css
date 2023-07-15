@@ -1,0 +1,56 @@
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    background: #982b5596
+} 
+
+.menu{
+    width: 940px;
+    position: relative;
+    margin: 0 auto;
+    font-size: 20px;
+}
+
+.menu :hover {
+    color:#e8ccda
+}
+
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0px;
+}
+
+img {
+    align-items: end;
+
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+.menu{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.imagen-ajol{
+    width: 100px;
+    align-items: flex-start;
+    position: 15px, 0, 0, 0;
+}
+
+
+a{
+    color: #4e0028;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
